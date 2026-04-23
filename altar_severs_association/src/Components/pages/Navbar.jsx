@@ -125,7 +125,7 @@ const Navbar = () => {
               Payment
             </Link>
             <Link
-              to="/admin/login"
+              to="/admin"
               onClick={() => setIsOpen(false)}
               className="flex items-center gap-2 px-3 py-2 text-green-200 hover:text-white hover:bg-green-700 rounded-md transition-colors duration-200"
             >
